@@ -12,7 +12,7 @@ export default function Navbar() {
 
   return (
     <nav className="navbar">
-      <span className="navbar-brand">Auth App</span>
+      <span className="navbar-brand">ClubHub</span>
       <div className="navbar-links">
         <NavLink to="/dashboard" end>
           Home
