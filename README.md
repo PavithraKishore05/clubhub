@@ -8,7 +8,7 @@ A campus event management platform where admins publish events and students disc
 
 - **Frontend** — React, Vite, Tailwind CSS, Axios
 - **Backend** — Node.js, Express, MongoDB (Mongoose), JWT (httpOnly cookies)
-- **Deployed on** — Vercel (monorepo, two services)
+- **Deployed on** — Vercel 
 
 ---
 
